@@ -1,0 +1,15 @@
+---
+title: "謝明翰 note."
+author: "Hsieh M.H"
+date: "2021/11/26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 音樂與智力的相關研究
+```
+
+```
